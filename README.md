@@ -1,7 +1,7 @@
-# Social Network API
+# Social-API
   [![MIT license](https://img.shields.io/badge/License-mit-blue.svg)](https://opensource.org/license/mit/)
   ## Description
-  The social network API is a database that is meant to store Users, their associated thoughts, their friends, and their reaction to their or other users thoughts. This mimics what the back end of a social networks application might look like. This is a learning tool and exercise.
+  The social API is a database that is meant to store Users, their associated thoughts, their friends, and their reaction to their or other users thoughts. This mimics what the back end of a social networks application might look like. This is a learning tool and exercise.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -33,4 +33,4 @@
 
   E-Mail: [cjfraga05@gmail.com](mailto:cjfraga05@gmail.com)
   ## Credits
-  Chris Fraga# Social-API
+  Chris Fraga
